@@ -46,7 +46,7 @@ Using 3Axis, update x,y,z value in Blynk Value display
 """
 
 button = 6
-led1 = 3
+led1 = 4
 led2 = 5
 rgb_led = 2
 
