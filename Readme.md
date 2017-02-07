@@ -34,3 +34,7 @@ PyBlynkRestApi Project
 ----------------------
 
 https://github.com/youngsoul/PyBlynkRestApi
+
+A picture of the Raspberry PI with the GrovePI sensors is below:
+
+![Alt text](./images/IMG_4509.JPG "Tab 1")
