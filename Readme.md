@@ -24,6 +24,15 @@ Light Sensor: GrovePI A2 - Blynk V25
 
 RGB LCD: GrovePI I2C - Blynk V26
 
+To Execute on Raspberry PI
+--------------------------
+
+This implementation assumes Python 3.x and has not been tested yet with Python 2.7.x.
+
+python3 main.py
+
+The main.py file assumes there is a file called 'auth_token.txt' which has a single line with the Blynk Authortization Token.
+
 Blynk Application 
 -----------------
 
